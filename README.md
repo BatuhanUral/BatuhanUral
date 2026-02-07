@@ -29,11 +29,12 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C, Python  
+- **Languages:** C, Python , Labview 
 - **MCU:** STM32 (F1 / F4)  
 - **RTOS:** FreeRTOS  
-- **Peripherals:** UART, I2C, SPI, ADC, Timer  
-- **Tools:** STM32CubeIDE, Git, Logic Analyzer  
+- **Peripherals:** UART, I2C, SPI, ADC-DAC, Timer  
+- **Tools:** STM32CubeIDE, Git, Logic Analyzer
+- **Donanım Tasarım:** KICAD, ALTIUM DESIGNER
 
 ---
 
@@ -50,7 +51,7 @@
 
 ## 📺 Video Content
 
-YouTube kanalımda:
+YouTube kanalımda Yakında...:
 - FreeRTOS mantığı
 - Gömülü sistem mimarisi
 - Gerçek proje örnekleri
