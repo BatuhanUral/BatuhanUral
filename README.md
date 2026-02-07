@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Files/Banner.png" alt="Banner">
+</p>
+
 <h1 align="center">Batuhan Ural</h1>
 
 <p align="center">
