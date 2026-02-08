@@ -46,7 +46,7 @@
 
 - 🔹 **FreeRTOS on STM32**  
   RTOS task, queue, semaphore ve event örnekleri  
-  👉 https://github.com/BatuhanUral/FreeRTOS-STM32
+  👉 https://github.com/BatuhanUral/STM32-freeRTOS
 
 - 🔹 **Bootloader over UART**  
   STM32 için firmware update altyapısı
